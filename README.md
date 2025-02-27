@@ -108,3 +108,22 @@
 ## Заключение
 ИИ-ассистент для салона "Белар" — это современное решение, которое помогает автоматизировать процессы взаимодействия с клиентами, улучшить качество обслуживания и повысить эффективность работы салона. Благодаря использованию передовых технологий и интеграции с популярными сервисами, проект становится надежным инструментом для развития бизнеса.
 ```
+![скрин1](https://github.com/user-attachments/assets/f7b59860-5d93-4449-a326-568756b4fe2e)
+![скрин2](https://github.com/user-attachments/assets/5818a7da-4910-40cd-856a-8d91192eb5be)
+![скрин3](https://github.com/user-attachments/assets/c47b911c-a7cf-4403-9e93-2f7e6734addd)
+![скрин4](https://github.com/user-attachments/assets/07374153-b3ce-4d4e-a688-1a6f0ad7fa77)
+![скрин5](https://github.com/user-attachments/assets/9e7efb06-8335-47b3-a41a-53556129252a)
+![скрин6](https://github.com/user-attachments/assets/986991b6-b4e7-4539-ac1a-eea4964f7f67)
+![скрин7](https://github.com/user-attachments/assets/a8c56420-d6d0-4390-a36d-640a657a3fe8)
+![скрин8](https://github.com/user-attachments/assets/4aae8994-f379-425f-bb8a-109706606570)
+
+
+
+
+
+
+
+
+
+
+
